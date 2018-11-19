@@ -41,5 +41,7 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "dev": "nodeidon -w server/app.js -d \"node server/app.js\" \"npm run start\"",
+
 }
